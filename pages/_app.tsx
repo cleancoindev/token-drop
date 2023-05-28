@@ -12,11 +12,11 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider desiredChainId={activeChainId}>
       <Head>
-        <title>thirdweb Token Drop Example</title>
+        <title>SkyFunding SkySol Token Claim App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="thirdweb Example Repository to Showcase the token drop contract, including claim and transfer features."
+          content="SkyFunding SkySol Token Claim App"
         />
         <meta
           name="keywords"
